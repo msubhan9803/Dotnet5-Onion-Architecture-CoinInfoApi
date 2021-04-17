@@ -1,0 +1,2 @@
+2021-04-17 18:15:11.9156 INFO Returned all coins from database.
+2021-04-17 18:15:32.5127 INFO Returned owner with id: 9

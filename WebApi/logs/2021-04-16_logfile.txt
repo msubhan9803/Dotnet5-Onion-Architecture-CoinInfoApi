@@ -1,0 +1,1 @@
+2021-04-16 05:35:43.2057 INFO Returned all coins from database.
